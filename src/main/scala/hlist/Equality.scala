@@ -1,0 +1,5 @@
+package hlist
+
+class Equality {
+
+}
